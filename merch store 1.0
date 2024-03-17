@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <body style="background-color: #0d0d0d;"></body>
+    <title>Mxyxck Playa Merch Store</title>
+</head>
+<head>
+    <style>
+    .welcome {
+        border-bottom: 1px solid snow;
+    }
+    </style>
+    <div class="welcome">
+        <p style="color: snow;text-align: center;">Welcome to Merch Store</p>
+    </div>
+</head>
+<body>
+    <style>
+        .logo {
+            float: center;
+            padding: 1%;
+        }
+    </style>
+    <div class="logo">
+        <div style="text-align: center;">
+    <img  src="mxyxckplaya.png"
+    alt="logo"
+    style="width: 260px;">
+    </div>
+</body>
+<head>
+    <style>
+        .text1 {
+            float: center;
+            padding: 1%;
+        }
+    </style>
+    <div class="text1">
+        <div style="color: snow;text-align: center;font-size: 25px;">News</div>
+    </div>
+</head>
+<body>
+<style>
+    .products1::after {
+        content: "";
+        clear: both;
+        display: block
+    }
+
+    .drumkit {
+        float: left;
+        width: 10%;
+        padding: 1%;
+    }
+</style>
+    <div class="products1">
+        <div class="drumkit">
+            <img src="ALBUM VOL.4.jpg"
+            style="width: 200px;">
+            <p style="color: snow;">Album Vol. 4 (No Uploaded)</p>
+        </div>
+        <div class="drumkit">
+            <img src="memphisvania iii v.2.jpg"
+            style="width: 198px;">
+            <p style="color: snow;">Memphisvania 3 (Coming Soon)</p>
+        </div>
+        <div class="drumkit">
+            <img src="MXYXCK PLAYA COMEBACK EDITION VOL. 3.png"
+            style="width: 198px;">
+            <p style="color: snow;">Album Vol. 3 (In Spotify)</p>
+            <a href="https://open.spotify.com/intl-pt/album/1boTATZlPd9tM9DjjPbCUj?si=dkiREpPXRIaI7Ub6vVIp3w">Listen Here</a>
+        </div>
+</body>
+</html>
